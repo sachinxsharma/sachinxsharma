@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/sachin72" target="blank"><img src="https://img.shields.io/twitter/follow/sachin72?logo=twitter&style=for-the-badge" alt="sachin72" /></a> </p>
 
-- 🔭 I’m currently working on [InsightFlare](https://github.com/sachinxsharma/insightFrontend-/tree/main)
+- 🔭 I’m currently learning DevOps
 
 - 👨‍💻 All of my projects are available at [sachinxsharma](sachinxsharma)
 
-- 📫 How to reach me **sachinsharma72003@gmail.com**
+- 📫 How to reach me **sachinsharma72003@gmail.com** // **sachin72tech@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
